@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8ec59f61.chunk.css",
-    "main.js": "/portfolio/static/js/main.339c46b8.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.339c46b8.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/portfolio/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.124d37e0.chunk.js": "/portfolio/static/js/2.124d37e0.chunk.js",
-    "static/js/2.124d37e0.chunk.js.map": "/portfolio/static/js/2.124d37e0.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.e435556d769a591fc7fb26810050d8bb.js": "/portfolio/precache-manifest.e435556d769a591fc7fb26810050d8bb.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/portfolio/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.8ec59f61.chunk.css.map": "/portfolio/static/css/main.8ec59f61.chunk.css.map",
-    "static/js/2.124d37e0.chunk.js.LICENSE.txt": "/portfolio/static/js/2.124d37e0.chunk.js.LICENSE.txt",
-    "static/media/FolderVintageWatches.svg": "/portfolio/static/media/FolderVintageWatches.1fe4429a.svg",
-    "static/media/avatar.png": "/portfolio/static/media/avatar.2877364a.png",
-    "static/media/logo.svg": "/portfolio/static/media/logo.baf1b68a.svg"
+    "main.css": "/static/css/main.8ec59f61.chunk.css",
+    "main.js": "/static/js/main.871c9846.chunk.js",
+    "main.js.map": "/static/js/main.871c9846.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.124d37e0.chunk.js": "/static/js/2.124d37e0.chunk.js",
+    "static/js/2.124d37e0.chunk.js.map": "/static/js/2.124d37e0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.baf04fded5aa294c617ac2559a9e2e34.js": "/precache-manifest.baf04fded5aa294c617ac2559a9e2e34.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.8ec59f61.chunk.css.map": "/static/css/main.8ec59f61.chunk.css.map",
+    "static/js/2.124d37e0.chunk.js.LICENSE.txt": "/static/js/2.124d37e0.chunk.js.LICENSE.txt",
+    "static/media/FolderVintageWatches.svg": "/static/media/FolderVintageWatches.1fe4429a.svg",
+    "static/media/avatar.png": "/static/media/avatar.2877364a.png",
+    "static/media/logo.svg": "/static/media/logo.baf1b68a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.209c2d7e.js",
+    "static/js/runtime-main.19ccc7f6.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.124d37e0.chunk.js",
     "static/css/main.8ec59f61.chunk.css",
-    "static/js/main.339c46b8.chunk.js"
+    "static/js/main.871c9846.chunk.js"
   ]
 }
